@@ -61,11 +61,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Michael Tong.</h2>;
-  const three = <h3 className="big-heading">I build digital solutions with an open mind.</h3>;
+  const three = <h3 className="big-heading">Problem solving <br></br>is my passion.</h3>;
   const four = (
     <>
       <p>
-      As a software engineer located in Seattle, WA, my aspiration lies in developing digital experiences with a large focus in human centered products.
+        As a software engineer, I focus on creating digital solutions that are intuitive, purposeful, and built around the people who use them.
       </p>
     </>
   );
