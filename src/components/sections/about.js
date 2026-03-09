@@ -135,7 +135,7 @@ const About = () => {
             <p>
               I specialize in troubleshooting and building IT solutions, everything from networks and servers to web applications and cloud infrastructure.
             </p>
-{/*             
+            
             <div>
               <p>
                 Services I offer:
@@ -144,7 +144,7 @@ const About = () => {
             <ul className="skills-list">
               {otherSkills && otherSkills.map((otherSkills, i) => <li key={i}>{otherSkills}</li>)}
             </ul>
-            <br></br> */}
+            <br></br>
             <p>Technologies I’m currently working with:</p>
           </div>
 
